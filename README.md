@@ -2,13 +2,11 @@ Norms vs. Predictions vs. Expectations: A Comparative Reflection
 
 Author: Laura Stevens
 Date: March 2025
-GitHub: 
-
-
 
 Executive Summary 📌🔍
 
-In both data analysis and real-world decision-making, the concepts of Norms, Predictions, and Expectations shape our understanding of behavior, outcomes, and strategic planning. While they may seem interchangeable, each plays a distinct role:
+In both data analysis and real-world decision-making, the concepts of Norms, Predictions, and Expectations 
+shape our understanding of behavior, outcomes, and strategic planning. While they may seem interchangeable, each plays a distinct role:
 
 Norms describe what is most commonly observed.
 
@@ -16,7 +14,9 @@ Predictions estimate what is most likely to happen.
 
 Expectations define what we assume, or demand should happen.
 
-Misunderstanding these distinctions can lead to flawed assumptions, biased models, or misaligned strategies. This reflection explores these concepts through both statistical and societal lenses, providing insights into their impact on data science, business, and policymaking. 🎯📉
+Misunderstanding these distinctions can lead to flawed assumptions, biased models, or misaligned strategies. 
+This reflection explores these concepts through both statistical and societal lenses, 
+providing insights into their impact on data science, business, and policymaking. 🎯📉
 
 
 
@@ -41,10 +41,10 @@ By clearly distinguishing these concepts, we can improve our analytical precisio
 
 Norms: What Happens Most Often 📈📊
 
-Norms are based on frequency. In statistics, they correspond to the mode (the most common value) or the peak of a normal distribution. Norms describe what is most frequently observed, but they do not explain causation or predict specific future outcomes.
+Norms are based on frequency. In statistics, they correspond to the mode (the most common value) or the peak of a normal distribution. 
+Norms describe what is most frequently observed, but they do not explain causation or predict specific future outcomes.
 
 Statistical Example: The average commute time in a metropolitan city.
-
 Industry Example: Most customers expect 24/7 customer support in the tech sector.
 
 Norms serve as benchmarks, guiding expectations and behaviors, but they do not inherently indicate what will or should happen in every case. 🏆📏
