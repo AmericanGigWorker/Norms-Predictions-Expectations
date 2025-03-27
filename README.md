@@ -1,18 +1,22 @@
-Norms vs. Predictions vs. Expectations: A Comparative Reflection
+# Norms vs. Predictions vs. Expectations
+## A Short Comparative Reflection
+
+<img src="Picture1.png" alt="Venn Diagram" width="400" style="display: block; margin-left: 0;" />
 
 Author: Laura Stevens
 Date: March 2025
-
-Executive Summary 📌🔍
+***
+***
+# Executive Summary 📌🔍
 
 In both data analysis and real-world decision-making, the concepts of Norms, Predictions, and Expectations 
 shape our understanding of behavior, outcomes, and strategic planning. While they may seem interchangeable, each plays a distinct role:
 
-Norms describe what is most commonly observed.
+#### Norms describe what is most commonly observed.
 
-Predictions estimate what is most likely to happen.
+#### Predictions estimate what is most likely to happen.
 
-Expectations define what we assume, or demand should happen.
+#### Expectations define what we assume, or demand should happen.
 
 Misunderstanding these distinctions can lead to flawed assumptions, biased models, or misaligned strategies. 
 This reflection explores these concepts through both statistical and societal lenses, 
@@ -20,7 +24,7 @@ providing insights into their impact on data science, business, and policymaking
 
 
 
-Why the Differences Matter ❗⚠️
+## Why the Differences Matter ❗⚠️
 
 Confusing norms, predictions, and expectations can lead to costly mistakes. For example:
 
