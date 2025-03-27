@@ -1,7 +1,7 @@
 # Norms vs. Predictions vs. Expectations
 ## A Short Comparative Reflection
 
-<img src="Picture1.png" alt="Venn Diagram" width="200" style="display: block; margin-left: 0;" />
+<img src="Picture1.png" alt="Venn Diagram" width="300" style="display: block; margin-left: 0;" />
 
 Author: Laura Stevens
 Date: March 2025
