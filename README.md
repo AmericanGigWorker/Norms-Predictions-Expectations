@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-norms-vs-predictions.png" alt="Norms vs Predictions vs Expectations Banner" width="100%" />
+</p>
+
 # Norms vs. Predictions vs. Expectations
 ## A Short Comparative Reflection
 
