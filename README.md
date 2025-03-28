@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="BannerImage.png" alt="Norms vs Predictions vs Expectations Banner" width="100%" />
-</p>
 
 # Norms vs. Predictions vs. Expectations
 ## A Short Comparative Reflection
-
 <img src="Picture1.png" alt="Venn Diagram" width="300" style="display: block; margin-left: 0;" />
 
 Author: Laura Stevens
@@ -91,6 +87,8 @@ Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
 Silver, N. (2012). The Signal and the Noise: Why So Many Predictions Fail—but Some Don't. Penguin Books.
 
 Taleb, N. N. (2007). The Black Swan: The Impact of the Highly Improbable. Random House.
+
+
 
 
 
